@@ -15,7 +15,7 @@
 
 ## Commands in order
   * `$ git clone https://github.com/arecvlohe/SimpleBuildSystem.git`
-  * `$ cd NameOfDir`
+  * `$ cd SimpleBuildSystem`
   * `$ npm install gulp gulp-jade gulp-sass --save-dev`
   * `$ gulp`
 
