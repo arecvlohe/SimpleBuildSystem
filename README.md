@@ -11,7 +11,7 @@
   run `npm install gulp gulp-jade gulp-sass --save-dev` so that these `devDependencies` are saved in `package.json` file and as `node_modules` in your project folder.
 
 ## Gulp
-  After the `devDependencies` are saved you can run `gulp` from your command and the html and css files will be built and watched for changes.
+  After the `devDependencies` are saved you can run `gulp` from your command and the `html` and `css` files will be built and watched for changes.
 
 ## Commands in order
   * `$ git clone https://github.com/arecvlohe/SimpleBuildSystem.git`
